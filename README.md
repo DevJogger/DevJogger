@@ -4,7 +4,7 @@
 
 - 👨‍💼 I’m a **Full-Stack Developer**.
 
-- 🌱 I’m currently learning **Three.js, Nest.js**
+- 🌱 I’m currently learning **Three.js**
 
 - 👯 I’m looking to collaborate on **Any project**
 

@@ -4,9 +4,9 @@
 
 - 👨‍💼 I’m a **Full-Stack Developer**.
 
-- 🌱 I’m currently learning **[MCP (Model Context Protocol)](https://modelcontextprotocol.io/)**
+- 🌱 I’m currently working on **[BoltResume](https://boltresume.com/)**
 
-- 👯 I’m looking to collaborate on **Any project**
+- 👯 I’m looking to collaborate on **front-end**
 
 - 💡 Fun fact: I'm also a **3D printing** enthusiast and a **smart home** aficionado.
 

@@ -4,7 +4,7 @@
 
 - 👨‍💼 I’m a **Full-Stack Developer**.
 
-- 🌱 I’m currently working on **[BoltResume](https://boltresume.com/)**
+- 🌱 I’m currently working on an AI resume builder called **[BoltResume](https://boltresume.com/)**
 
 - 👯 I’m looking to collaborate on **front-end**
 
